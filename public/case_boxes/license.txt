@@ -1,0 +1,11 @@
+Model Information:
+* title:	Case boxes
+* source:	https://sketchfab.com/3d-models/case-boxes-e33d91df155945f38dc3d8acc3102ac8
+* author:	YJ_ (https://sketchfab.com/YJ_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Case boxes" (https://sketchfab.com/3d-models/case-boxes-e33d91df155945f38dc3d8acc3102ac8) by YJ_ (https://sketchfab.com/YJ_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
